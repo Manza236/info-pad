@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630735478062",
+    "project_id": "infopad-587fe",
+    "storage_bucket": "infopad-587fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630735478062:android:6c62a222c22fcde8d5eebf",
+        "android_client_info": {
+          "package_name": "com.manza.infoPad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630735478062-glh8c9rrr22enk8ndtof7ses1hcued7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4kQvq8MoSEF8Ik_bAKw7puh2vEGFToo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630735478062-glh8c9rrr22enk8ndtof7ses1hcued7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
